@@ -1,0 +1,51 @@
+{
+	"groups": [
+		{
+			"keys": "corner_1,corner_2,icom,ikea_city_0,index,mp3,needle,disc",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/corner_1.jpg",
+			"type": "image",
+			"name": "corner_1"
+		},
+		{
+			"url": "assets/corner_2.jpg",
+			"type": "image",
+			"name": "corner_2"
+		},
+		{
+			"url": "assets/icom.json",
+			"type": "sheet",
+			"name": "icom",
+			"subkeys": "corner_mark_3,corner_mark_4,corner_mark_5,corner_title_4_1,corner_title_5"
+		},
+		{
+			"url": "assets/ikea_city_0.jpg",
+			"type": "image",
+			"name": "ikea_city_0"
+		},
+		{
+			"url": "assets/index.jpg",
+			"type": "image",
+			"name": "index"
+		},
+		{
+			"url": "assets/mp3.mp3",
+			"type": "sound",
+			"name": "mp3"
+		},
+		{
+			"url": "assets/needle.png",
+			"type": "image",
+			"name": "needle"
+		},
+		{
+			"url": "assets/disc.png",
+			"type": "image",
+			"name": "disc"
+		}
+	]
+}
